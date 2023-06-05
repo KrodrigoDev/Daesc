@@ -4,8 +4,7 @@ O Daesc é um site que oferece uma série de recursos para melhorar a comunicaç
 
 ## Funcionalidades
 
-- Registre uma reclamação caso seu local tenha ficado sem água
-
+- Registre uma reclamação caso seu local tenha ficado sem água.
 - Simule a quitação de sua dívida relacionada ao fornecimento de água.
 
 ## Executando o Projeto
@@ -44,14 +43,16 @@ npm start
 
 Aqui estão algumas capturas de tela do Daesc em funcionamento:
 
-![Página Inicial](https://github.com/KrodrigoDev/Daesc/blob/main/Imagens%20do%20Projeto/Daesc%20(1).png?raw=true)
-*Página Inicial do Daesc*
+<div align="center">
+  <img src="https://github.com/KrodrigoDev/Daesc/blob/main/Imagens%20do%20Projeto/Daesc%20(1).png?raw=true" alt="Página Inicial" width="600" />
+  <p>Página Inicial do Daesc</p>
+</div>
 
-![Página de Serviços](https://github.com/KrodrigoDev/Daesc/blob/main/Imagens%20do%20Projeto/Daesc%20(2).png?raw=true)
-*Página de Serviços do Daesc*
+<div align="center">
+  <img src="https://github.com/KrodrigoDev/Daesc/blob/main/Imagens%20do%20Projeto/Daesc%20(2).png?raw=true" alt="Página de Serviços" width="600" />
+  <p>Página de Serviços do Daesc</p>
+</div>
 
 ## Contato
 
-Se tiver alguma dúvida ou sugestão, entre
-
- em contato conosco por meio do [meu perfil no GitHub](https://github.com/KrodrigoDev).
+Se tiver alguma dúvida ou sugestão, entre em contato conosco por meio do [meu perfil no GitHub](https://github.com/KrodrigoDev).
