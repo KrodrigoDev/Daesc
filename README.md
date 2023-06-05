@@ -44,10 +44,10 @@ npm start
 
 Aqui estão algumas capturas de tela do Daesc em funcionamento:
 
-![Página Inicial](/screenshots/pagina-inicial.png)
+![Página Inicial](https://github.com/KrodrigoDev/Daesc/blob/main/Imagens%20do%20Projeto/Daesc%20(1).png?raw=true)
 *Página Inicial do Daesc*
 
-![Página de Serviços](/screenshots/pagina-servicos.png)
+![Página de Serviços](https://github.com/KrodrigoDev/Daesc/blob/main/Imagens%20do%20Projeto/Daesc%20(2).png?raw=true)
 *Página de Serviços do Daesc*
 
 ## Contato
