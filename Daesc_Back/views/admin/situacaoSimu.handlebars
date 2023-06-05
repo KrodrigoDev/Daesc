@@ -1,0 +1,24 @@
+<h3>Lista de todas as simulações</h3>
+<hr>
+
+
+{{#each servicos}}
+<div class="card mt-4">
+    <div class="card-body ">
+        <h4>Valor do Boleto: R${{boleto }} </h4>
+        <p>Valor de entrada: R${{entrada}}</p>
+        <p>Número de parcelas: {{parcela}}</p>
+        <form action='/admin/situacaoSimulacao/deletar' method="post">
+
+            <input type="hidden" name="id" value="{{id}}">
+            <button type="submit" class="btn btn-danger">Deletar Simulação</button>
+        </form>
+    </div>
+
+
+</div>
+
+{{else}}
+
+
+{{/each}}

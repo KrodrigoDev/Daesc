@@ -1,0 +1,22 @@
+{{#each erros_reclamacao}}
+<div class="alert alert-danger">{{texto}}</div>
+{{else}}
+
+{{/each}}
+
+
+<h3>Nova reclamação</h3>
+<div class="card">
+    <div class="card-body">
+        <form action="/user/situacao/nova" method="post">
+            <label for="Rua">Rua: </label>
+            <input type="text" name="rua" id="rua" placeholder="Nome da rua" class="form-control">
+            <label for="Bairro">Bairro: </label>
+            <input type="text" name="bairro" id="bairro" placeholder="Nome do bairro" class="form-control">
+            <label for="Descricao">Descrição: </label>
+            <textarea name="descricao" id="descricao" class="form-control"></textarea>
+            
+            <BUtton type="submit" class="btn btn-success mt-4"> Criar reclamação </BUtton>
+        </form>
+    </div>
+</div>
